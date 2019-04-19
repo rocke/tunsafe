@@ -10,9 +10,10 @@
 
 首先连接VPS，使用以下一键脚本安装
 
->> wget https://raw.githubusercontent.com/atrandys/tunsafe/master/tunsafe_install.sh && chmod +x tunsafe_install.sh && ./tunsafe_install.sh
-在弹出的页面中选择1 安装tunsafe
+> wget https://raw.githubusercontent.com/atrandys/tunsafe/master/tunsafe_install.sh && chmod +x tunsafe_install.sh && >./tunsafe_install.sh
 
+在弹出的页面中选择1 安装tunsafe
+[img]https://www.atrandys.com/wp-content/uploads/2019/02/tunsafe1.png[/img]
 
 
 安装过程中需要你选择使用哪种模式，建议1 UDP模式，如果UDP干扰严重，可选择TCP中的一个，https比tcp还要慢一点
